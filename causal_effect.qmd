@@ -1,0 +1,6 @@
+---
+title: "n-parameters"
+author: "Judy Zhu"
+format: html
+---
+
